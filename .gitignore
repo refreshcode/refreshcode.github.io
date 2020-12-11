@@ -1,0 +1,5 @@
+.idea
+.jekyll-cache
+.DS_Store
+Gemfile.lock
+Gemfile
